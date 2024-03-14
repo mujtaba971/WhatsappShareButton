@@ -1,0 +1,24 @@
+.whatsapp-share-btn {
+    display: inline-block;
+    background-color: #25d366;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.whatsapp-share-btn:hover{
+    color: green;
+}
+
+.container{
+    display: flex;
+    margin-top: 100px ;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    margin-left: 500px;
+}
